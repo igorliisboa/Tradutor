@@ -1,4 +1,4 @@
-#Tradutor de texto em Python
+#Tradutor de textos em Python
 
 from translate import Translator
 
